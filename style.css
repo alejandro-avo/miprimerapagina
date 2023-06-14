@@ -162,3 +162,8 @@ main{
         width: auto;
     }
 }
+
+.greeting{
+    width: 80%;
+    text-align: center;
+}
